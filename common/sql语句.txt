@@ -1,0 +1,2 @@
+SQL 查询语句
+sql_message = "select is_lock from tp_users where user_id = 82"       # 查询用户的短消息条数

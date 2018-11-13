@@ -1,0 +1,32 @@
+<!--测试用例集合-->
+<project>
+ <cases>
+        <GetNewNum-testcase01/>
+        <GetNewNum-testcase02/>
+        <GetNewNum-testcase03/>
+        <MainNew-testcase01/>
+        <MainNew-testcase02/>
+        <!--<MainNew-testcase03/>-->
+        <!--<MainRank-testcase01/>-->
+        <!--<Message_list-testcase01/>-->
+        <!--<Message_list-testcase02/>-->
+        <!--<Message_detail-testcase01/>-->
+        <!--<Message_detail-testcase02/>-->
+        <!--<Message_setread-testcase01/>-->
+        <!--<Message_setread-testcase02/>-->
+        <!--<Main_index-testcase01/>-->
+        <!--<Main_index-testcase02/>-->
+        <!--<Main_more-testcase01/>-->
+        <!--<Main_more-testcase02/>-->
+        <!--<Goods_search-testcase01/>-->
+        <!--<Goods_search-testcase02/>-->
+        <!--<Goods_category-testcase01/>-->
+        <!--<Goods_category-testcase02/>-->
+        <!--<MainNew-testcase01/>-->
+        <!--<MainNew-testcase02/>-->
+        <!--<MainNew-testcase03/>-->
+
+
+
+    </cases>
+</project>
